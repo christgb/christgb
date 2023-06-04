@@ -10,6 +10,7 @@
 
 <h3>🚀 Some of my main projects now:</h3>
 <p>
+ <img src="(https://img.shields.io/github/repo-size/christgb/Accounting-Companion)][(https://github.com/christgb/Accounting-Companion)]">
 <img src="https://img.shields.io/github/repo-size/christgb/Accounting-Companion">
 </p>
 
