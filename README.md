@@ -1,6 +1,8 @@
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/naveenverma1/count.svg" />
+  <br/>
+  <img src="https://media.licdn.com/dms/image/D4D16AQEhj_6lJ06dxw/profile-displaybackgroundimage-shrink_350_1400/0/1680744353176?e=1691625600&v=beta&t=ZvpDzkax5XIL84eiTrCkIPqakiE_SsZQlkHuu7bkTaQ">
 </p>
 
 ## About Me
