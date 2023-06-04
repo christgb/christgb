@@ -9,10 +9,9 @@
 </p>
 
 <h3>🚀 Some of my main projects now:</h3>
-<p>
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=christgb&repo=Accounting-Companion)](https://github.com/christgb/Accounting-Companion)
-</p>
 
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=christgb&repo=Accounting-Companion)](https://github.com/christgb/Accounting-Companion)
+  
 
 
 ## Tech & Tools Preference
