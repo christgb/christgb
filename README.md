@@ -37,3 +37,6 @@
 <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&labelColor=F24E1E&style=flat">
 <img src="https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&labelColor=000000&style=flat">
 
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajput2107&&show_icons=true&theme=radical" alt="christgb's Github Stats">
+</p> 
