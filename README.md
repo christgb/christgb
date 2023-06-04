@@ -4,4 +4,4 @@
 </p>
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,react,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,react,mysql,postman,bootstrap,docker,figma,)](https://skillicons.dev)
