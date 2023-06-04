@@ -38,5 +38,5 @@
 <img src="https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&labelColor=000000&style=flat">
 
 <p align="center">
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=christgb&show_icons=true)
+ <img src="https://github-readme-stats.vercel.app/api?username=christgb&show_icons=true">
 </p> 
