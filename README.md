@@ -14,7 +14,7 @@
 
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=christgb&repo=Accounting-Companion&theme=dark)](https://github.com/christgb/Accounting-Companion)
   
-   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=christgb&repo=guessChamp-LOL&theme=dark)](https://github.com/christgb/Accounting-Companion)
+   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=christgb&repo=guessChamp-LOL&theme=dark)](https://github.com/christgb/guessChamp-LOL)
   
 
 
