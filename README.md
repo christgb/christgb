@@ -42,6 +42,4 @@
 <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&labelColor=F24E1E&style=flat">
 <img src="https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&labelColor=000000&style=flat">
 
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=christgb&show_icons=true&theme=dark">
-</p> 
+
