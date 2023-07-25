@@ -43,4 +43,9 @@
 <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&labelColor=F24E1E&style=flat">
 <img src="https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&labelColor=000000&style=flat">
 
-
+<div align="center">
+    <h2>🐍My Contributions🐍</h2>
+    <br>
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/christgb/christgb/output/github-contribution-grid-snake.svg" />
+    <br/>
+</div>
