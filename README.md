@@ -7,7 +7,8 @@
 
 ## About Me
 <p>
-  I'm a <strong>Software developer</strong>. Working on developing my experience and personal projects to make a space for myself in the professional field. I'm looking for opportunities for constant improvement and learning. I'm passionate about programming and technology ❤️💻.
+I'm a <strong>software developer</strong> actively expanding my expertise through professional experience and personal projects, with the goal of establishing a strong presence in the industry. <br><br>
+🌟 Awesome thing about programming is being able to bring my ideas to life.
 </p> 
 <p><a href="https://www.hackerrank.com/srsteve1913?hr_r=1" target="_blank">Hackerrank Profile</p>
 
