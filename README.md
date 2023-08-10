@@ -2,7 +2,6 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/christgb/count.svg" />
   <br/>
-  ![](https://github.com/christgb/christgb/blob/main/gif.gif)
 </p>
 
 ## About Me
