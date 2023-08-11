@@ -2,6 +2,7 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/christgb/count.svg" />
   <br/>
+  <img src="gif.gif">
 </p>
 
 ## About Me
