@@ -10,7 +10,7 @@
 I'm a <strong>software developer</strong> actively expanding my expertise through professional experience and personal projects, with the goal of establishing a strong presence in the industry. <br><br>
 🌟 Awesome thing about programming is being able to bring my ideas to life.
 </p> 
-<p><a href="https://www.hackerrank.com/srsteve1913?hr_r=1" target="_blank">Hackerrank Profile</p>
+<p><a href="https://www.hackerrank.com/srsteve1913?hr_r=1" target="_blank">Hackerrank Profile Here</p>
 
 <h3>🚀 Some of my main projects now:</h3>
 
