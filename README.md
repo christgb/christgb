@@ -16,7 +16,7 @@ I'm a <strong>software developer</strong> actively expanding my expertise throug
 
   [![ReadMe Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=christgb&repo=Accounting-Companion&theme=dark)](https://github.com/christgb/Accounting-Companion)
 
-  [![ReadMe Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=christgb&repo=odont-app&theme=dark)]
+  [![ReadMe Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=christgb&repo=Odont-app&theme=dark)](https://github.com/christgb/Odont-app)
 
 
 ## Tech & Tools Preference
