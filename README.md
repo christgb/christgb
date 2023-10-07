@@ -14,9 +14,9 @@ I'm a <strong>software developer</strong> actively expanding my expertise throug
 
 <h3>🚀 Some of my main projects now:</h3>
 
-  [![ReadMe Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=christgb&repo=Accounting-Companion&theme=dark)](https://github.com/christgb/Accounting-Companion)
-
   [![ReadMe Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=christgb&repo=Odont-app&theme=dark)](https://github.com/christgb/Odont-app)
+
+  [![ReadMe Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=christgb&repo=Accounting-Companion&theme=dark)](https://github.com/christgb/Accounting-Companion)
 
 
 ## Tech & Tools Preference
